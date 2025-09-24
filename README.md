@@ -1,12 +1,12 @@
-# Bullet
+# BulletServe
 
 <!-- <h3 align="center">Bullet: Boosting GPU Utilization for LLM Serving via <br>Dynamic Spatial-Temporal Orchestration</h3> -->
 
 
-**<u>[[Paper]](https://arxiv.org/abs/2504.19516)</u> Bullet: Boosting GPU Utilization for LLM Serving via Dynamic Spatial-Temporal Orchestration**
+**<u>[[Paper]](https://arxiv.org/abs/2504.19516)</u> Boosting LLM Serving through Spatial-Temporal GPU Resource Sharing**
 
 
-Bullet is a novel LLM serving system that enables concurrent execution of prefill and decode phases on the same device through **fine-grained spatial-temporal GPU sharing**.
+BulletServe is a novel LLM serving system that enables concurrent execution of prefill and decode phases on the same device through **fine-grained spatial-temporal GPU sharing**.
 
 
 <p align="center">
