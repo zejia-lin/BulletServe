@@ -1,9 +1,9 @@
 # BulletServe
 
-<!-- <h3 align="center">Bullet: Boosting GPU Utilization for LLM Serving via <br>Dynamic Spatial-Temporal Orchestration</h3> -->
+<h3 align="center">Boosting LLM Serving through Spatial-Temporal GPU Resource Sharing</h3>
 
-
-**<u>[[Paper]](https://arxiv.org/abs/2504.19516)</u> Boosting LLM Serving through Spatial-Temporal GPU Resource Sharing**
+- [2025/11] 🎉 Bullet is accepted by [ASPLOS 2026](https://www.asplos-conference.org/asplos2026/)!
+- [2025/04] Bullet is released on [arXiv](https://arxiv.org/abs/2504.19516).
 
 
 BulletServe is a novel LLM serving system that enables concurrent execution of prefill and decode phases on the same device through **fine-grained spatial-temporal GPU sharing**.
@@ -130,14 +130,12 @@ We conduct experiments using the [Splitwise](https://arxiv.org/abs/2311.18677) d
 If you use Bullet, please consider citing our [paper](https://arxiv.org/abs/2504.19516):
 
 ```
-@misc{lin2025bulletboostinggpuutilization,
+@inproceedings{bullet,
       title={Bullet: Boosting GPU Utilization for LLM Serving via Dynamic Spatial-Temporal Orchestration}, 
       author={Zejia Lin and Hongxin Xu and Guanyi Chen and Zhiguang Chen and Yutong Lu and Xianwei Zhang},
-      year={2025},
-      eprint={2504.19516},
-      archivePrefix={arXiv},
-      primaryClass={cs.DC},
-      url={https://arxiv.org/abs/2504.19516}, 
+      booktitle={Proceedings of the 31th ACM International Conference on Architectural Support for Programming Languages and Operating Systems},
+      year={2026},
+      series={ASPLOS'26}
 }
 ```
 
