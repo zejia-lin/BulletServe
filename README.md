@@ -2,7 +2,7 @@
 
 <h3 align="center">Boosting LLM Serving through Spatial-Temporal GPU Resource Sharing</h3>
 
-- [2025/11] 🎉 Bullet is accepted by [ASPLOS 2026](https://www.asplos-conference.org/asplos2026/)!
+- [2025/11] 🎉 Bullet is accepted by [ASPLOS 2026](https://dl.acm.org/doi/abs/10.1145/3779212.3790135)!
 - [2025/04] Bullet is released on [arXiv](https://arxiv.org/abs/2504.19516).
 
 
